@@ -93,6 +93,8 @@ const fetchData = async () => {
 };
 
 fetchData();
+
+// eslint-disable-next-line react-hooks/exhaustive-deps
 }, [casesType]);
 
 return (

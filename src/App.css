@@ -61,5 +61,6 @@ body{
 @media(max-width:381px) {
 .app_header h1{
   flex: 0.5;
+  font-size: 1.5rem;
 }  
 }
